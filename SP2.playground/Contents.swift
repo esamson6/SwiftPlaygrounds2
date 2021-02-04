@@ -39,3 +39,48 @@ else
 {
     print("I'm not so sure about coding in Swift")
 }
+
+//Part 5 - Problem Set 1 - Int/Interger
+
+var intOne = 8
+var intTwo = 16
+
+if intOne < intTwo
+{
+    print("Correct")
+}
+else
+{
+   print("Incorrect")
+}
+
+//Part 5 - Problem Set 2
+
+var stringOne = "Why is the city of HIlo so green"
+var stringTwo = "Because it rains all the time"
+
+if stringOne == stringTwo
+
+{
+    print("stringOne + stringTwo")
+}
+else
+{
+    print("A Blessing from up above")
+}
+
+//Part 5 Problem Set 3
+//Bubba is the name of my American Pitbull.
+//Garfield is the name of a cartoon cat.
+
+let dogBubba = true
+let catGarfield = false
+
+if dogBubba == catGarfield
+{
+    print("I do not like cats")
+}
+else
+{
+    print("I love dogs")
+}
